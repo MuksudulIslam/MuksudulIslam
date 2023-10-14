@@ -1,6 +1,10 @@
 [![MasterHead](https://github.com/MuksudulIslam/MuksudulIslam/assets/143453305/0a9cf523-2c52-4710-93d5-f63536babb35)](https://muksudulislam.io)
 <h1 align="center">Hi 👋, I'm Muksudul Islam</h1>
-<h3 align="center">I am highly motivated and detail-oriented Fresher Full Stack SQA with a passion for ensuring software quality testing.</h3>
+<h3 align="center">I am highly motivated and detail-oriented Fresher Full Stack SQA with a passion for ensuring software quality testing. I have successfully contributed to more than 8 projects, where I applied my testing 
+expertise to improve software quality. Skilled in developing and executing comprehensive 
+test plans, test cases, collaborating with developers to design automated test scripts, and 
+tracking software issues and defects. Proven ability to reduce software defects by 95% and 
+bug resolution time by 75%.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muksudulislam&label=Profile%20views&color=0e75b6&style=flat" alt="muksudulislam" /> </p>
